@@ -21,7 +21,7 @@
 
 **OpenEnv Integration:** TRL now supports **[OpenEnv](https://huggingface.co/blog/openenv)**, the open-source framework from Meta for defining, deploying, and interacting with environments in reinforcement learning and agentic workflows.
 
-Explore how to seamlessly integrate TRL with OpenEnv in our [dedicated documentation](openenv).
+Explore how to seamlessly integrate TRL with OpenEnv in our [dedicated documentation](https://huggingface.co/docs/trl/openenv).
 
 ## Overview
 
@@ -188,7 +188,7 @@ Example:
 from trl.experimental.new_trainer import NewTrainer
 ```
 
-Read more in the [Experimental docs](https://huggingface.co/docs/trl/experimental).
+Read more in the [Experimental docs](https://huggingface.co/docs/trl/experimental_overview).
 
 ## Citation
 

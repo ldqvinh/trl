@@ -11,3 +11,9 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+
+from .minillm_config import MiniLLMConfig
+from .minillm_trainer import MiniLLMTrainer
+
+
+__all__ = ["MiniLLMConfig", "MiniLLMTrainer"]
